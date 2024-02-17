@@ -13,3 +13,5 @@ func main(){
 	fmt.Print("Computer 33")
 	fmt.Print("Computer 33")
 }
+
+func plus()
