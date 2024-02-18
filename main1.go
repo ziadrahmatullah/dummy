@@ -4,7 +4,7 @@ import (
 	"fmt"
 )
 
-func main() {
+func yayan() {
 	fmt.Println("Hello Wohrld!") //print
 	a := 5
 	b := 7
